@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "n4x65NfHB6UmyjAxDXVaUmBps6e3857wke7RvCRQG7iBmgL+gmsqOJvLTWMR9pHDpjbshnZHi+Tdi0I2QIz8ug==",
+  "dgSpecHash": "Clc0aBaGhgYE1NCDrexogUXuwo9QYVcwEtxwHtdac5zIfWHSPiajFS+JneKSou8FS0mYzMNYprDLSh72L6y5pQ==",
   "success": true,
   "projectFilePath": "D:\\Jenkins Project\\Project\\Employee Project\\EmployeeProject\\EmployeeProject\\EmployeeProject\\EmployeeProject.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\coverlet.msbuild\\3.1.0\\coverlet.msbuild.3.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
