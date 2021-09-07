@@ -24,7 +24,7 @@ namespace EmployeeTestProject
                 Address = "Bashundhara"
             };
 
-            var emp = employeeService.GetEmployeeByName("Shasgdhswon");
+            var emp = employeeService.GetEmployeeByName("Shawon");
             var expectedEmployee = new Likeness<Employee, Employee>(employee);
             Assert.AreEqual(expectedEmployee, emp);
         }
